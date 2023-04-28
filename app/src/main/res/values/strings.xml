@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+
+    <!-- for ad mob banner-->
+    <string name="ad_mob_banner_id">ca-app-pub-7053038897749233~6575692572</string>
+    <string name="ad_mob_test_banner_id">ca-app-pub-7053038897749233/8359547534</string>
+
+</resources>
